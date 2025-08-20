@@ -1,5 +1,6 @@
 // By Biden/pres_biden/Fentman/Inducible/whichever username I go by next lol
 // An official Fent production: https://discord.gg/4sMGGZ6bSX
+// Please reference the official repo: https://github.com/Inducible/Collatz-conjecture-Swift
 
 import Foundation // i need this for the date stuff
 
