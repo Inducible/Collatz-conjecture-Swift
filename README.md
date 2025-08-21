@@ -1,7 +1,7 @@
 # Collatz-conjecture-Swift
 A feature rich software for testing of the Collatz conjecture in Swift.
 
-Originally ade for https://github.com/HAV0X1014/Collatz-in-every-language
+Originally made for https://github.com/HAV0X1014/Collatz-in-every-language
 
 An official Fent production: https://discord.gg/4sMGGZ6bSX
 
