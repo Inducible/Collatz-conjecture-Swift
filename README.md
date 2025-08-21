@@ -1,5 +1,5 @@
 # Collatz-conjecture-Swift
-A feature rich implementation of the Collatz conjecture in Swift.
+A feature rich software for testing of the Collatz conjecture in Swift.
 
 Originally ade for https://github.com/HAV0X1014/Collatz-in-every-language
 
